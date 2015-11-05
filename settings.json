@@ -1,13 +1,13 @@
 {
-  "timeStamp": 1445020398899,
-  "version": "1.2.1",
+  "timeStamp": 1446761395268,
+  "version": "1.3.2",
   "userSettings": {
     "advancedUserEnabled": false,
     "autoUpdate": true,
     "collapseBlocked": true,
     "colorBlindFriendly": false,
     "contextMenuEnabled": true,
-    "dynamicFilteringEnabled": false,
+    "dynamicFilteringEnabled": true,
     "experimentalEnabled": false,
     "externalLists": "! Examples:\n! https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt\n! https://easylist-downloads.adblockplus.org/fb_annoyances_sidebar.txt\n! https://easylist-downloads.adblockplus.org/fb_annoyances_newsfeed.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_comments.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_suggestions.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_other.txt",
     "firewallPaneMinimized": true,
@@ -32,8 +32,8 @@
       "homeURL": "https://easylist-downloads.adblockplus.org/easylist.txt",
       "supportURL": "https://forums.lanik.us/",
       "off": false,
-      "entryCount": 57430,
-      "entryUsedCount": 57399
+      "entryCount": 58860,
+      "entryUsedCount": 58828
     },
     "assets/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt": {
       "title": "EasyPrivacy",
@@ -41,8 +41,8 @@
       "homeURL": "https://easylist-downloads.adblockplus.org/easyprivacy.txt",
       "supportURL": "https://forums.lanik.us/",
       "off": false,
-      "entryCount": 10403,
-      "entryUsedCount": 10366
+      "entryCount": 10600,
+      "entryUsedCount": 10563
     },
     "assets/thirdparties/mirror1.malwaredomains.com/files/justdomains": {
       "title": "Malware domains",
@@ -50,8 +50,8 @@
       "homeURL": "http://malwaredomains.lehigh.edu/files/justdomains",
       "supportURL": "http://www.malwaredomains.com/",
       "off": false,
-      "entryCount": 10337,
-      "entryUsedCount": 10271
+      "entryCount": 9612,
+      "entryUsedCount": 9545
     },
     "assets/thirdparties/pgl.yoyo.org/as/serverlist": {
       "title": "Peter Lowe’s Ad server list",
@@ -59,19 +59,19 @@
       "homeURL": "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext",
       "supportURL": "http://pgl.yoyo.org/adservers/",
       "off": false,
-      "entryCount": 2393,
-      "entryUsedCount": 2393
+      "entryCount": 2425,
+      "entryUsedCount": 2425
     },
     "assets/thirdparties/www.malwaredomainlist.com/hostslist/hosts.txt": {
       "title": "Malware Domain List",
       "group": "malware",
       "homeURL": "http://www.malwaredomainlist.com/hostslist/hosts.txt",
       "off": false,
-      "entryCount": 1443,
-      "entryUsedCount": 1443
+      "entryCount": 1490,
+      "entryUsedCount": 1490
     }
   },
-  "netWhitelist": "about-scheme\naccount.manning.com\naraport-dev.tacc.utexas.edu\nbehind-the-scene\nbitbucket.org\nblog.statuspage.io\nchrome-extension-scheme\nchrome-scheme\nconnect.garmin.com\nconsole.aws.amazon.com\ndesignsafeci-dev.tacc.utexas.edu\ndocker.local\ndocs.google.com\ngit-scm.com\ngithub.com\nhub.docker.com\ninbox.google.com\nlivingwell.provantonline.com\nloopconversation.about-scheme\nmirrors.iplantcollaborative.org\nopera-scheme\nportal.tacc.utexas.edu\nportal.xsede.org\nscootinnaustin.frontgatetickets.com\nstackoverflow.com\nstatus.agaveapi.co\nthenextweb.com\ntrello.com\ntwit.tv\nwww.aa.com\nwww.amazon.com\nwww.araport.org\nwww.chameleoncloud.org\nwww.fitbit.com\nwww.google.com\nwww.hover.com\nwww.iplantcollaborative.org\nwww.liferay.com\nwww.mealtrain.com\nwww.myfitnesspal.com\nwww.runintexas.com\nwww.tacc.utexas.edu\nwww.theatlantic.com\nwww.trunkclub.com\nwww.wikipedia.org",
+  "netWhitelist": "about-scheme\naccount.manning.com\naraport.org\nbehind-the-scene\nbitbucket.org\nblog.statuspage.io\nchameleoncloud.org\nchrome-extension-scheme\nchrome-scheme\nconnect.garmin.com\nconsole.aws.amazon.com\ndocker.com\ndocker.local\ndocs.google.com\ngit-scm.com\ngithub.com\ngoogle.com\niplantc.org\niplantcollaborative.org\nlivingwell.provantonline.com\nloopconversation.about-scheme\nopera-scheme\nscootinnaustin.frontgatetickets.com\nstackoverflow.com\nstatus.agaveapi.co\ntacc.utexas.edu\nthenextweb.com\ntrello.com\ntwit.tv\nwww.aa.com\nwww.amazon.com\nwww.fitbit.com\nwww.google.com\nwww.hover.com\nwww.liferay.com\nwww.mealtrain.com\nwww.myfitnesspal.com\nwww.runintexas.com\nwww.theatlantic.com\nwww.trunkclub.com\nwww.wikipedia.org\nxsede.org",
   "dynamicFilteringString": "",
   "urlFilteringString": "",
   "hostnameSwitchesString": "",
